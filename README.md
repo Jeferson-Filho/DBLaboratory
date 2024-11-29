@@ -73,10 +73,6 @@ Instalação de ferramentas necessárias para rodar o projeto (verificar se ser�
   <img src="https://contrib.rocks/image?repo=Jeferson-Filho/DBLaboratory" alt="contrib.rocks image" />
 </a>
 
-<a href="https://github.com/larissa-ferrari/DBLaboratory/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=larissa-ferrari/DBLaboratory" alt="contrib.rocks image" />
-</a>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
