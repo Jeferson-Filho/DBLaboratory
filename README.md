@@ -73,6 +73,10 @@ Instalação de ferramentas necessárias para rodar o projeto (verificar se ser�
   <img src="https://contrib.rocks/image?repo=Jeferson-Filho/DBLaboratory" alt="contrib.rocks image" />
 </a>
 
+<a href="https://github.com/larissa-ferrari/DBLaboratory/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=larissa-ferrari/DBLaboratory" alt="contrib.rocks image" />
+</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
@@ -80,6 +84,7 @@ Instalação de ferramentas necessárias para rodar o projeto (verificar se ser�
 ## Contact
 
 Jeferson Filho - [LinkedIn](https://www.linkedin.com/in/jdietrichfho/)
+Larissa Ferrari - [LinkedIn](https://www.linkedin.com/in/jdietrichfho/)
 
 Project Link: [https://github.com/Jeferson-Filho/DBLaboratory](https://github.com/Jeferson-Filho/DBLaboratory)
 
