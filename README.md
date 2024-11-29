@@ -79,8 +79,8 @@ Instalação de ferramentas necessárias para rodar o projeto (verificar se ser�
 
 ## Contact
 
-Jeferson Filho - [LinkedIn](https://www.linkedin.com/in/jdietrichfho/)
-Larissa Ferrari - [LinkedIn](https://www.linkedin.com/in/jdietrichfho/)
+- Jeferson Filho - [LinkedIn](https://www.linkedin.com/in/jdietrichfho/)
+- Larissa Ferrari - [LinkedIn](https://www.linkedin.com/in/jdietrichfho/)
 
 Project Link: [https://github.com/Jeferson-Filho/DBLaboratory](https://github.com/Jeferson-Filho/DBLaboratory)
 
