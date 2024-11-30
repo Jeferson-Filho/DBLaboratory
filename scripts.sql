@@ -1,5 +1,3 @@
--- Versionamento 2024.10
-
 CREATE DATABASE censo_escolar;
 
 use censo_escolar;
@@ -145,7 +143,7 @@ NU_ANO_CENSO int
 );
  
 SET sql_mode = "";
-load data local infile 'sql/Docentes Rio Claro 2017.csv'
+load data infile 'C:\\ProgramData\\MySQL\\\MySQL Server 8.0\\Uploads\\Docentes Rio Claro 2017.csv'
 into table censo_escolar.docente
 fields terminated by '|'
 enclosed by '"'
@@ -324,7 +322,7 @@ NU_ANO_CENSO int
 , IN_ESP_EXCLUSIVA_PROF bool
 );
 
-load data local infile 'sql/Escolas Rio Claro 2017.csv'
+load data infile 'C:\\ProgramData\\MySQL\\\MySQL Server 8.0\\Uploads\\Escolas Rio Claro 2017.csv'
 into table censo_escolar.escola
 fields terminated by '|'
 enclosed by '"'
@@ -425,7 +423,7 @@ NU_ANO_CENSO int
 );
 
 SET sql_mode = "";
-load data local infile 'sql/Turmas Rio Claro 2017.csv'
+load data infile 'C:\\ProgramData\\MySQL\\\MySQL Server 8.0\\Uploads\\Turmas Rio Claro 2017.csv'
 into table censo_escolar.turma
 fields terminated by '|'
 enclosed by '"'
@@ -530,7 +528,7 @@ NU_ANO_CENSO int
 );
 
 SET sql_mode = "";
-load data local infile 'sql/Matriculas Rio Claro 2017.csv'
+load data infile 'C:\\ProgramData\\MySQL\\\MySQL Server 8.0\\Uploads\\Matriculas Rio Claro 2017.csv'
 into table censo_escolar.matricula
 fields terminated by '|'
 enclosed by '"'
@@ -548,9 +546,9 @@ IDEB_EM float
 );
 
 SET sql_mode = "";
-load data local infile 'sql/ideb_2017_rio claro.csv'
+load data infile 'C:\\ProgramData\\MySQL\\\MySQL Server 8.0\\Uploads\\ideb_2017_rio claro.csv'
 into table censo_escolar.ideb
-fields terminated by ';'
+fields terminated by '|'
 enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines
